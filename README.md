@@ -4,7 +4,7 @@ I'm a Web Developer based in Sweden. I'm passionate about Web application.
 
 ## Skills
 
-- 💻 HTML, CSS, JavaScript, boostrap,figma
+- 💻 HTML, CSS, JavaScript, boostrap, figma
 - 🚀 React, SQL, Ruby
 - 📦 Git, GitHub
 
